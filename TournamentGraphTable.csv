@@ -1,4 +1,4 @@
-TournamentID,BuyIn,Location Name,Location,Date,,
+tournament_id,buy_in,location_name,location,date,,
 0,350,Lacey’s Place,"(41.51587015297055, -87.53825682626119)",3/25/2024,,
 1,3000,Horseshoe Poker Room,"(36.114502846689874, -115.17077345234426)",7/13/2023,,
 2,500,Bogey’s Slots & Poker,"(41.608331609471115, -87.56641676465415)",6/19/2024,,
